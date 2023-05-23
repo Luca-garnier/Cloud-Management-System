@@ -1,4 +1,4 @@
-# Gross CC Architecture
+# CMS Architecture
 ![Screen Shot 2023-05-22 at 2 09 30 PM](https://github.com/Luca-garnier/Cloud-Project/assets/69828682/d7d51cf4-1639-4290-8990-d577a31144fc)
 
 # Cloud Management System Dashboard
