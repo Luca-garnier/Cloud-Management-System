@@ -7,7 +7,8 @@
 
 
 ## CMS Architecture
-![Screen Shot 2023-05-22 at 2 09 30 PM](https://github.com/Luca-garnier/Cloud-Project/assets/69828682/d7d51cf4-1639-4290-8990-d577a31144fc)
+![Screenshot 2024-07-22 at 8 11 30 PM](https://github.com/user-attachments/assets/f3a00b83-f3bd-45a8-9c9c-84c63e49b7a9)
+
 
 ## Cloud Management System Dashboard
 <img width="1440" alt="Screen Shot 2023-02-15 at 1 12 51 AM" src="https://user-images.githubusercontent.com/21010886/218947494-39f29c75-1c3e-4fe9-a4ce-a8ae197dc1e1.png">
